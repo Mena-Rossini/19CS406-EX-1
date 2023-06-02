@@ -59,10 +59,12 @@ s.send("acknowledgement recived from the server".encode())
 
 ### CLIENT:
 
+![241374228-776252bb-9f63-4361-b551-55aa746effd5](https://github.com/Mena-Rossini/19CS406-EX-1/assets/102855266/4ab8ff31-15d7-4c3e-8588-5b363833ece1)
 
 
 ### SERVER:
 
+![241374231-6ff91ac9-c4d2-44f3-9ce9-c2195c6dab42](https://github.com/Mena-Rossini/19CS406-EX-1/assets/102855266/1dca8633-b1aa-43ee-ac7b-001fae246555)
 
 
 ## RESULT:
